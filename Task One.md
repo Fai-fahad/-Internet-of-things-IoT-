@@ -4,3 +4,4 @@
 ### 2.HTML
 ## The program we will work on:
 ### Visual Studio Code
+### First we create a new FOLDER in VC.
