@@ -9,3 +9,13 @@
 
 ## First 
 ### we create a new FOLDER in VC.
+
+https://user-images.githubusercontent.com/101976302/183260230-5cd4e044-3f84-40d1-b6bf-59edb2503590.mp4
+
+## Second 
+###  we create a HTML file.
+### From FILE list dd new file (name your file .with extension  html. )
+
+
+
+
