@@ -19,6 +19,8 @@ Uploading The suspension system is responsible for stability and balance and is 
 
 ## The last step
 ### is writing the code.
+![The suspension system is responsible for stability and balance and is used in the chassis and wheelhouse to maintain the stability of the car on roads and turns](https://user-images.githubusercontent.com/101976302/183261475-f35c9734-c094-4014-b2f5-19d12b8659f2.gif)
+
 
 
 
