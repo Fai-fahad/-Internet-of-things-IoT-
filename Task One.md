@@ -4,6 +4,8 @@
 ### 2.HTML
 ## The program we will work on:
 ### Visual Studio Code
-![The suspension system is responsible for stability and balance and is used in the chassis and wheelhouse to maintain the stability of the car on roads and turns](https://user-images.githubusercontent.com/101976302/183260139-a7a10602-e440-404c-9e6c-9878851cabc6.gif)
+![The suspension system is responsible for stability and balance and is used in the chassis and wheelhouse to maintain the stability of the car on roads and turns  (1)](https://user-images.githubusercontent.com/101976302/183260155-878bf984-6c95-4a8d-a715-7a6e5a78cbd0.gif)
 
-### First we create a new FOLDER in VC.
+
+## First 
+### we create a new FOLDER in VC.
