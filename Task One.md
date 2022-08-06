@@ -22,7 +22,11 @@ Uploading The suspension system is responsible for stability and balance and is 
 
 ![The suspension system is responsible for stability and balance and is used in the chassis and wheelhouse to maintain the stability of the car on roads and turns](https://user-images.githubusercontent.com/101976302/183261475-f35c9734-c094-4014-b2f5-19d12b8659f2.gif)
 
+![Capture1](https://user-images.githubusercontent.com/101976302/183261573-e13e2401-2d56-4113-8c41-b296d32be4ff.PNG)
+
+
 ![v3](https://user-images.githubusercontent.com/101976302/183261519-fb34bb35-4e3f-407a-8723-e8f550f26c06.gif)
+
 
 
 
