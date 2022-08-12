@@ -12,7 +12,11 @@ Go to file > preferences , put the package link to the esp32 https://dl.espressi
 
 https://user-images.githubusercontent.com/101976302/184379185-9a74b300-2d48-469e-92cb-74559dc12389.mp4
 
+# 2)Go to Tools > Board > select the name of your ESP32 board.
 
-Go to Tools > Board > select the name of your ESP32 board.
-Go to Tools > Port and select a COM port available.
+https://user-images.githubusercontent.com/101976302/184391997-96caf502-c3d8-4e55-95db-2195f3c6de2c.mp4
+# 2)Go to Tools > Port and select a COM port available.
+https://user-images.githubusercontent.com/101976302/184392031-a62c7663-05a4-4534-b758-61cb48eec97c.mp4
+
+
 write the following code in arduion editor :
