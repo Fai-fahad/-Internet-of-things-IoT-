@@ -23,6 +23,9 @@ from code.text file.
 
 https://user-images.githubusercontent.com/101976302/184393262-8f6f0dee-1185-46bd-8a16-86de8835d604.mp4
 
+# 4)Press the upload button.
+
+
 
 
 
