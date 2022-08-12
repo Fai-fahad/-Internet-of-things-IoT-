@@ -7,3 +7,12 @@
 ## 2) Preparing the ESP32 Board in Arduino IDE
 
 ![8](https://user-images.githubusercontent.com/101976302/184375330-1d2690b7-f2c9-4291-be55-c4ad7fe23f8f.png)
+# 1)Plug the ESP32 to your PC or laptob by using micro cable.
+Go to file > preferences , put the package link to the esp32 https://dl.espressif.com/dl/package_esp32_index.json > ok
+
+https://user-images.githubusercontent.com/101976302/184379185-9a74b300-2d48-469e-92cb-74559dc12389.mp4
+
+
+Go to Tools > Board > select the name of your ESP32 board.
+Go to Tools > Port and select a COM port available.
+write the following code in arduion editor :
